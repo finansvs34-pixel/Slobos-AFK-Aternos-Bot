@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "loottaass.aternos.me:44852",
+    "ip": "loottaass.aternos.me",
     "port": 44852,
     "version": "",
     "try-creative": false
